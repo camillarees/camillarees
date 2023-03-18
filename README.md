@@ -1,6 +1,14 @@
 ## Hi! 👋 
 
-I'm Camilla, a people-centered full-stack Javascript developer with a mission to educate and engage communities to act for the public good through technology. Throughout my career, I have witnessed an immense positive impact on societal ecosystems when we improve the ways we connect good people with the right resources and opportunities. Making life better for others is one of my guiding principles.
+I'm Camilla. I'm a...
+
+💫 Collaborative, people-centered front-end designer and engineer making functional art with code.
+
+👩🏻‍💻 Career pivoter with a B.S in Family Studies and 9 years of experience in nonprofit program and marketing management, content creation, photography, and social work.
+
+My Guiding Principles:
+🤍 Make life better for others
+🌿 Never stop learning
 
 ## 📫 Connect with me:
 <p align="left">
