@@ -1,13 +1,13 @@
-## Hi! 👋 
-
-I'm Camilla. I'm a...
+## Hi! I'm Camilla. 👋 
 
 💫 Collaborative, people-centered front-end designer and engineer making functional art with code.
 
 👩🏻‍💻 Career pivoter with a B.S in Family Studies and 9 years of experience in nonprofit program and marketing management, content creation, photography, and social work.
 
 My Guiding Principles:
+
 🤍 Make life better for others
+
 🌿 Never stop learning
 
 ## 📫 Connect with me:
