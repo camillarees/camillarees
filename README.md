@@ -2,7 +2,7 @@
 
 💫 Collaborative, people-centered front-end designer and engineer making functional art with code.
 
-👩🏻‍💻 Career pivoter with a B.S in Family Studies and 9 years of experience in nonprofit program and marketing management, content creation, photography, and social work.
+👩🏻‍💻 Career pivoter with a B.S in Family Studies and 9 years of experience in nonprofit program and marketing management, content creation, photography, and higher education.
 
 My Guiding Principles:
 
